@@ -16,9 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/aks-byte/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/aks-byte/leetcode-solutions/tree/master/0338-counting-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/aks-byte/leetcode-solutions/tree/master/0338-counting-bits) |
+## Array
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/aks-byte/leetcode-solutions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
